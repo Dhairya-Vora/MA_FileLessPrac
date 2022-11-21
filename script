@@ -1,1 +1,2 @@
-echo you have been compromised by the best StompingBull > hacked.txt | Out-Null | .\hacked.txt
+echo you have been compromised by the best StompingBull > hacked.txt | Out-Null 
+.\hacked.txt
